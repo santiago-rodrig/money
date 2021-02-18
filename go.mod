@@ -1,1 +1,3 @@
-module "github.com/santiago-rodrig/money"
+module github.com/santiago-rodrig/money
+
+go 1.15
